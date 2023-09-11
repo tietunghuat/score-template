@@ -1,0 +1,12 @@
+@import './tailwind.css';
+
+#app {
+  margin: 0 auto;
+
+  font-weight: normal;
+}
+html,
+body,
+#app {
+  height: 100%;
+}
